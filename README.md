@@ -1,2 +1,4 @@
 # Building-damage-assessment-with-CNN
-Damaged buildings from UAV images were detected and classified by CNN.
+Damages in buildings as a result of natural disasters negatively affect human life. Therefore, recently, remote sensing techniques have been used for damage detection by collecting information about the damaged area. This study aims to determine the building damage caused by Hurricane Irma, which occurred on the island of Sint Maarten on September 6, 2017, and the degree of damage to these buildings by remote sensing methods. In the study, Convolutional Neural Networks (CNN), which is one of the deep learning methods, is applied in damage detection using post-event UAV images of the hurricane-affected area. UAV images produced by GlobalMedic's RescUAV Program are used. In this study, RescUAV images with 4 cm resolution were acquired and resampled to obtain 8 cm resolution images. Vector reference data from the Copernicus platform of the study area and post-event WorldView-2 satellite images are used to control the accuracy of the building damage assessment process.
+
+The operations performed are shown in .pdf.
